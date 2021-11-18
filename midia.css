@@ -1,0 +1,17 @@
+@media (max-width:710px){
+    body {justify-content: center;
+        display: grid;
+        flex-direction: row;
+        flex-wrap: wrap;
+        
+        
+
+
+    }
+    
+
+
+
+
+}
+
