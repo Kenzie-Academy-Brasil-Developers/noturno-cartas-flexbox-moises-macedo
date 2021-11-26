@@ -49,6 +49,10 @@ html {
   border: 1px solid #CAD0D2;
   border-radius: 4px;
   overflow: hidden;
+  width: 710px;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
 }
 
   .cardGroup__card {
